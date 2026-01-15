@@ -19,6 +19,3 @@ just...
 
 		return a;
 	}
-
-
-
