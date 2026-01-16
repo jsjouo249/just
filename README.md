@@ -1,7 +1,7 @@
 # just
 
 just...
-
+test
 
 	public static int lcm( int a, int b, int gcd  ) {
 		return ( a * b / gcd );
